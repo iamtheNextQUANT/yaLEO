@@ -1,5 +1,5 @@
-let price = 11.99;
+let product = "Bata Ngoma";
     
 
 
-showMessage("$  "+price);
+showMessage(price);
